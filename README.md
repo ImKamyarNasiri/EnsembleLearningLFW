@@ -1,0 +1,1 @@
+This project focuses on using the Labeled Faces in the Wild (LFW) dataset to build a face recognition system. The goal is to train a classifier using ensemble learning methods to determine whether two given face images belong to the same person or different individuals based on extracted features.
